@@ -1,5 +1,7 @@
+import TestPage from "./pages/test-page";
+
 function App() {
-  return <h1>Hello, world!</h1>;
+  return <TestPage />;
 }
 
 export default App;
